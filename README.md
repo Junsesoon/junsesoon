@@ -26,3 +26,8 @@
     </a>
   </p>
 </div>
+<hr>
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&theme=react)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=react)
+ </div>
