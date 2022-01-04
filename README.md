@@ -11,9 +11,12 @@
   
   
   <h3>Me📷</h3><br>
-  <a href=link=https://www.instagram.com/junseo_sub/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/junseo_sub/">
-  </a>
-  <a href="mailto:junsesoon@naver.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=junsesoon@naver.com"/></a>
+  <p>
+    <a href=https://www.instagram.com/junseo_sub/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/junseo_sub/">
+    </a>&nbsp
+    <a href="mailto:junsesoon@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=junsesoon@naver.com"/>
+    </a>
+  </p>
 </div>
