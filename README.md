@@ -1,7 +1,10 @@
 <div align="center">
-  <h2>Welcome to Junses's github🦈</h2>
+  <h2>Welcome to Junseo's github🦈</h2>
 <br>
-
+  <p>
+  데이터 분석 / 인공지능 / 항공에 관심이 많은 Junseo의 github
+  </p>
+  
   <h3>Tech skils🌾</h3><br>
   <img src="https://img.shields.io/badge/R-blue?style=plastic&logo=R&logoColor=#276DC3"/> 
   <img src="https://img.shields.io/badge/python-yellowgreen?style=plastic&logo=Python&logoColor=#3776AB"/> 
