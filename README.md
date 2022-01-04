@@ -11,8 +11,9 @@
   <img src="https://img.shields.io/badge/Linux-yellow?style=plastic&logo=linux&logoColor=#FCC624"/> 
   <img src="https://img.shields.io/badge/html-orange?style=plastic&logo=html5&logoColor=#E34F26"/> 
   <img src="https://img.shields.io/badge/css-violet?style=plastic&logo=css3&logoColor=#1572B6"/> 
+  <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=Git&logoColor=#F05032"/>
   <img src="https://img.shields.io/badge/word-2B579A?style=plastic&logo=Microsoft Word&logoColor=#2B579A"/>
-  <br>
+    <br>
   <h3>Me📷</h3><br>
   <p>
     <a href=https://junsesoon.github.io/>
@@ -28,5 +29,4 @@
 </div>
 <hr>
 <br>
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Junseo's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=github_dark&hide_border=true" /></a> |<br>
-| ----------------------------------------------- | ------------------------------------ |
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Junseo's github stats" /></a><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=github_dark&hide_border=true" /></a><br>
