@@ -4,7 +4,7 @@
   <p>
   데이터 분석 / 인공지능 / 항공에 관심이 많은 Junseo의 github
   </p>
-  
+  <br>
   <h3>Tech skils🌾</h3><br>
   <img src="https://img.shields.io/badge/R-blue?style=plastic&logo=R&logoColor=#276DC3"/> 
   <img src="https://img.shields.io/badge/python-yellowgreen?style=plastic&logo=Python&logoColor=#3776AB"/> 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/html-orange?style=plastic&logo=html5&logoColor=#E34F26"/> 
   <img src="https://img.shields.io/badge/css-violet?style=plastic&logo=css3&logoColor=#1572B6"/> 
   <img src="https://img.shields.io/badge/word-2B579A?style=plastic&logo=Microsoft Word&logoColor=#2B579A"/>
-  
+  <br>
   <h3>Me📷</h3><br>
   <p>
     <a href=https://junsesoon.github.io/>
@@ -27,8 +27,6 @@
   </p>
 </div>
 <hr>
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Anurag's github stats" />
-</a>|<a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=github_dark&hide_border=true" />
-</a>
+<br>
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Junseo's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=github_dark&hide_border=true" /></a>|
+| ------------- | ------------- |
