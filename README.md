@@ -27,11 +27,6 @@
   </p>
 </div>
 <hr>
-<a align="left">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
-</a>
-<a align="right">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsesoon&theme=github_dark&show_icons=true)
 
 
