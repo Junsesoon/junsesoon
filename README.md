@@ -27,6 +27,11 @@
   </p>
 </div>
 <hr>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&theme=react);
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=react)
+<a align="left">
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junsesoon&show_icons=true&theme=github_dark)
+</a>
+<a align="right">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsesoon&layout=compact&theme=github_dark)
+</a>
+
 
