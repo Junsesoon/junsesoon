@@ -5,14 +5,18 @@
   데이터 분석 / 인공지능 / 항공에 관심이 많은 Junseo의 github
   </p>
   <br>
-  <h3>Tech skils🌾</h3><br>
+  <h3>Main Tech🔥</h3><br>
   <img src="https://img.shields.io/badge/R-blue?style=plastic&logo=R&logoColor=white"/> 
   <img src="https://img.shields.io/badge/python-yellowgreen?style=plastic&logo=Python&logoColor=white"/> 
+  
+  <h3>Sub Tech💧</h3><br>
+  <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/word-2B579A?style=plastic&logo=Microsoft Word&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-yellow?style=plastic&logo=linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/html-orange?style=plastic&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css-violet?style=plastic&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/word-2B579A?style=plastic&logo=Microsoft Word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle DB-#F80000?style=plastic&logo=Oracle&logoColor=white"/> 
+
     <br><br>
   <h3>Me📷</h3><br>
   <p>
