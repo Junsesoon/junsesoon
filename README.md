@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/html-orange?style=plastic&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css-violet?style=plastic&logo=css3&logoColor=white"/> 
   <br><br>
-  <h3>Me📷</h3><br>
+  <h3>Click Me📷</h3><br>
   <p>
     <a href=https://junsesoon.github.io/>
     <img src="https://img.shields.io/badge/gitblog-181717?style=plastic&logo=Github&logoColor=white&link=https://junsesoon.github.io/">
