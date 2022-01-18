@@ -11,7 +11,7 @@
   
   <h3>Sub Tech💧</h3><br>
   <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-#F80000?style=plastic&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Oracle-#F80000?style=plastic&logo=Oracle&logoColor=white"/> 
   <img src="https://img.shields.io/badge/word-2B579A?style=plastic&logo=Microsoft Word&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-yellow?style=plastic&logo=linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/html-orange?style=plastic&logo=html5&logoColor=white"/> 
